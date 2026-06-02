@@ -1,1 +1,6 @@
-
+@font-face {
+font-family: 'ezze';
+src: url('./font/ezze.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
