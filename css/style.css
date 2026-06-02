@@ -1,12 +1,12 @@
 @font-face {
-font-family: 'Ezze';
-src: url('/assets/ezze.woff2') format('woff2'),
-url('/assets/ezze.woff') format('woff');
-font-weight: normal;
-font-style: normal;
-font-display: swap;
+  font-family: 'Ezze';
+  src: url('./assets/ezze.woff2') format('woff2'),
+       url('./assets/ezze.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
 
 body {
-  font-family: 'Ezze', monospace;
+  font-family: 'Ezze', monospace !important;
 }
