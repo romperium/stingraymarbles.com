@@ -6,10 +6,25 @@
   <meta http-equiv="Content-Style-Type" content="text/css">
   <title>Stingray Marbles</title>
   <h1>Welcome to Stingray Marbles</h1>
+  <!-- sum shit they put in my file bro -->
   <meta name="Generator" content="Cocoa HTML Writer">
   <meta name="CocoaVersion" content="2685.6">
 </head>
 <body>
-  <p>I still haven't made anything yet... please check later.</p>
+  <p> <!-- I pulled this splash text script from somewhere, i forgot the link -->
+    <script>
+  const splashes = [
+    "i said maybe",
+    "Check the repo github.com/romperium/stingraymarbles.com",
+    "Coding is like beer, don't chug it the first time you try it since it's gonna be painful, but still tasty.",
+    "I hope the random text works...",
+    "majd hop on terraria"
+  ];
+    
+  const randomIndex = Math.floor(Math.random() * splashes.length);
+  
+  document.querySelector('.splash-text').textContent = splashes[randomIndex];
+</script>
+</p>
 </body>
 </html>
