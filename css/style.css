@@ -1,7 +1,7 @@
 @font-face {
 font-family: 'ezze';
-src: url('./assets/ezze.woff') format('woff'),
-url('./assets/ezze.woff2') format('woff2');
+src: url('/assets/ezze.woff') format('woff'),
+url('/assets/ezze.woff2') format('woff2');
 font-weight: normal;
 font-style: normal;
 font-display: swap;
