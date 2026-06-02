@@ -9,6 +9,6 @@
 
 body {
   font-family: 'Ezze', monospace !important;
-  background-color: #172a3a
-  color: #508991
+  background-color: #172a3a !important;
+  color: #74b3ce !important;
 }
