@@ -7,6 +7,10 @@
   font-display: swap;
 }
 
+svg {
+  shape-rendering: crispEdges;
+}
+
 body {
   font-family: 'Ezze', monospace !important;
   background-color: #172a3a !important;
