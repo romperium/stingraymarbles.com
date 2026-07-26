@@ -21,7 +21,27 @@ h1, h2, h3 {
   color: #ffffff !important;
 }
 
-a {
-  color: #add8ff !important;
+a:link {
+  color: #c4ecff !important;
+  background-color: transparent !important;
+  text-decoration: none !important;
+}
+
+a:visited {
+  color: #f4bbfc !important;
+  background-color: transparent !important;
+  text-decoration: none !important;
+}
+
+a:hover {
+  color: #ff9e9e !important;
+  background-color: transparent !important;
+  text-decoration: underline !important;
+}
+
+a:active {
+  color: #faff9e !important;
+  background-color: transparent !important;
+  text-decoration: underline !important;
 }
 
