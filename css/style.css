@@ -15,10 +15,12 @@ body {
   font-family: 'Ezze', monospace !important;
   background-color: #172a3a !important;
   color: #ffffff !important;
+  text-align: center !important;
 }
 
 h1, h2, h3 {
   color: #ffffff !important;
+  text-align: center !important;
 }
 
 a:link {
